@@ -10,7 +10,7 @@ To get started, clone the repository to your local machine:
 git clone https://github.com/yourusername/RMIT-Security-in-Computing-and-IT-ElGamalEncryption-Enhancement.git
 ```
 
-##Usage
+## Usage
 
 The application can be run directly from any Java-supporting IDE or from the command line:
 
